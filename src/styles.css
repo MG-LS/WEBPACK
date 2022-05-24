@@ -1,0 +1,30 @@
+
+* {
+  box-sizing: border-box;
+}
+body {
+    width: 100%;
+    background-color: whitesmoke;
+}
+#Logo {
+    width: 600px;
+    margin: auto;
+    background-color: wheat;
+}
+input {
+    width: 350px;
+}
+button {
+    width: 30px;
+    height: 20px;
+    background-color: black;
+    border-radius: 10px;
+}
+#divInput {
+    width: 400px;
+    margin: auto;
+}
+#event_div {
+    width: 400px;
+    margin: auto;
+}
